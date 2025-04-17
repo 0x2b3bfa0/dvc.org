@@ -63,7 +63,7 @@ const plugins = [
       icon: 'static/favicon-512x512.png',
       name: 'dvc.org',
       short_name: 'dvc.org',
-      start_url: '/',
+      start_url: '/dvc.org',
       theme_color: '#eff4f8',
       icons: [
         {
